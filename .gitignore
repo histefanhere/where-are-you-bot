@@ -1,3 +1,11 @@
+
+# Don't commit calendar files
+*.ics
+
+config.json
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

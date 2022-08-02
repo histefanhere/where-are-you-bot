@@ -1,0 +1,17 @@
+Libraries:
+- https://pypi.org/project/ics/
+    - documentation: https://icspy.readthedocs.io/en/stable/
+    - this seems to be mostly used for creating your own calendar events
+- https://pypi.org/project/icalendar/
+- this may solve a lot of my issues: https://github.com/niccokunzmann/python-recurring-ical-events
+- https://github.com/jazzband/icalevents
+
+For each event, these are the useful fields:
+- DESCRIPTION: Discrete Structures in Maths
+- DTSTAMP, DTSTART, DTEND
+- LOCATION: 401-439
+- SUMMARY: COMPSCI 225
+
+Guides:
+- icalendar and ics.py: https://learnpython.com/blog/working-with-icalendar-with-python/
+- datetime, calendar and arrow: https://learnpython.com/blog/work-with-calendar-and-arrow-python/
